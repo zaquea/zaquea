@@ -1,19 +1,19 @@
-# 👋 Opa, eu sou...
+# 👋 About me
 
-Dev Web focado em **Frontend**, curto criar interfaces limpas e funcionais.  
-Também sou **violinista 🎻**, fã de gatos 🐈 e usuário de **Linux (btw)**.
-
----
-
-## 🌐 Redes
-
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+I'm a **Brazilian** Web Developer focused on **Frontend**, I enjoy building clean and functional interfaces.  
+Also a **violinist 🎻**, cat lover 🐈 and **Linux user (btw)**.
 
 ---
 
-## 🚀 Tech Stack
+## 🌐 Social
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1455356519443988572)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zaquedev)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/zaquea)
+
+---
+
+## 🚀 Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,20 +22,22 @@ Também sou **violinista 🎻**, fã de gatos 🐈 e usuário de **Linux (btw)**
 
 ---
 
-## 🐧 Ambiente
+## 🐧 Setup
 
 - Linux user (btw)
-- Vs Code
-- Terminal > qualquer coisa
+- VS Code
+- Terminal > everything else
 
 ---
 
-## 🧠 Interesses
+## 🧠 Interests
 
-- Desenvolvimento Frontend
+- Frontend development
 - UI/UX
-- Música (violino)
+- Music (violin)
 - Open Source
-- Gatos (importante)
+- Cats (mandatory)
+
+---
 
 :)
