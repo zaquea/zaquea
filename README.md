@@ -1,15 +1,29 @@
-# 👋 About me
+# 👋 Hi! I'm Zaque :0
 
 I'm a **Brazilian** Web Developer focused on **Frontend**, I enjoy building clean and functional interfaces.  
-Also a **violinist 🎻**, cat lover 🐈 and **Linux user (btw)**.
+Also a **Violinist 🎻**, cat lover 🐈 and **Linux user 🐧**.
+</div>
 
 ---
 
+
+<div>
+<img align="center" alt="Zaque's Github Stats" src="https://github-readme-stats-nine-inky-62.vercel.app/api?username=zaquea&show_icons=true&theme=github_dark&border_radius=10.0&hide_border=true" />
+<img align="center" src="https://github-readme-stats-nine-inky-62.vercel.app/api/top-langs/?username=zaquea&lat&theme=github_dark&border_radius=10.0&hide_border=true"/>
+</div>
+
+
+
+
+
+---
+
+
 ## 🌐 Social
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1455356519443988572)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/zaquedev)
-[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/zaquea)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1455356519443988572)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zaquedev)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/zaquea)
 
 ---
 
@@ -24,7 +38,7 @@ Also a **violinist 🎻**, cat lover 🐈 and **Linux user (btw)**.
 
 ## 🐧 Setup
 
-- Linux user (btw)
+- Linux
 - VS Code
 - Terminal > everything else
 
@@ -39,5 +53,9 @@ Also a **violinist 🎻**, cat lover 🐈 and **Linux user (btw)**.
 - Cats (mandatory)
 
 ---
+
+
+
+![Snake animation](https://github.com/zaquea/zaquea/blob/output/github-contribution-grid-snake.svg)
 
 :)
