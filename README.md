@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Zaque :0
 
-I'm a **Brazilian** Web Developer focused on **Frontend**, I enjoy building clean and functional interfaces.  
-Also a **Violinist 🎻**, cat lover 🐈 and **Linux user 🐧**.
+I'm a **Brazilian** **Web Developer** focused on **Frontend**, I enjoy building clean and functional interfaces.  
+Also a **Violinist 🎻**, **Cat lover 🐈** and **Linux user and contributor 🐧**.
 </div>
 
 ---
@@ -14,35 +14,30 @@ Also a **Violinist 🎻**, cat lover 🐈 and **Linux user 🐧**.
 
 
 
-
-
----
-
-
-## 🌐 Social
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1455356519443988572)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zaquedev)
-[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/zaquea)
-
----
-
-## 🚀 Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-## 🐧 Setup
-
-- Linux
-- VS Code
-- Terminal > everything else
-
----
+<div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+ <a href="https://discord.gg/users/1455356519443988572" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="mailto:alencarisaque@proton.me" target="_blank">
+  <img src="https://img.shields.io/badge/-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white">
+</a>
+<a href="https://gitlab.com/zaquea" target="_blank">
+  <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+</a>
+  <a href="https://x.com/zaquedev" target="_blank">
+  <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+  <a href="https://instagram.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+</div>
 
 ## 🧠 Interests
 
@@ -56,6 +51,7 @@ Also a **Violinist 🎻**, cat lover 🐈 and **Linux user 🐧**.
 
 
 
-![Snake animation](https://github.com/zaquea/zaquea/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contributions](https://gitblend.com/api/contributions/github?username=zaquea&theme=dark)
+
 
 :)
