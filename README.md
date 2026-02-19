@@ -24,7 +24,7 @@ Also a **Violinist 🎻**, **Cat lover 🐈** and **Linux user and contributor �
   ##
  
 <div> 
- <a href="https://discord.gg/users/1455356519443988572" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/dStZfbQ8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="mailto:alencarisaque@proton.me" target="_blank">
   <img src="https://img.shields.io/badge/-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white">
 </a>
