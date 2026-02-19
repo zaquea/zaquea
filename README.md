@@ -1,8 +1,8 @@
-# 👋 Hi! I'm Zaque :0
+# 👋 Hi! I'm Zaque :0 <img src="giphy.gif" align="center" height="70" width="70" hspace="620"/>
 
-I'm a **Brazilian** **Web Developer** focused on **Frontend**, I enjoy building clean and functional interfaces.  
+I'm a **Brazilian** **Web Developer** focused on **Frontend**, I enjoy building clean and functional interfaces.
 Also a **Violinist 🎻**, **Cat lover 🐈** and **Linux user and contributor 🐧**.
-</div>
+
 
 ---
 
@@ -24,17 +24,17 @@ Also a **Violinist 🎻**, **Cat lover 🐈** and **Linux user and contributor �
   ##
  
 <div> 
- <a href="https://discord.gg/dStZfbQ8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href="mailto:alencarisaque@proton.me" target="_blank">
+ <a href="https://discord.gg/dStZfbQ8><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="mailto:alencarisaque@proton.me">
   <img src="https://img.shields.io/badge/-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white">
 </a>
-<a href="https://gitlab.com/zaquea" target="_blank">
+<a href="https://gitlab.com/zaquea">
   <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
 </a>
-  <a href="https://x.com/zaquedev" target="_blank">
+  <a href="https://x.com/zaquedev">
   <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
-  <a href="https://instagram.com/zaquedev" target="_blank">
+  <a href="https://instagram.com/zaquedev">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 </div>
