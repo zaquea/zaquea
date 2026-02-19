@@ -34,7 +34,7 @@ Also a **Violinist 🎻**, **Cat lover 🐈** and **Linux user and contributor �
   <a href="https://x.com/zaquedev" target="_blank">
   <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://instagram.com/zaquedev" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 </div>
