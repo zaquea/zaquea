@@ -52,7 +52,7 @@ Also a **Violinist 🎻**, **Cat lover 🐈** and **Linux user and contributor �
 
 
 
-![GitBlend Contributions](https://gitblend.com/api/contributions?username=zaquea&theme=github)
+![GitHub Contributions](https://gitblend.com/api/contributions?username=zaquea&theme=dark)
 
 
 
