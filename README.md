@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Zaque :0 <img src="giphy.gif" align="center" height="70" width="70" hspace="620"/>
+# 👋 Hi! I'm Zaque <3
 
 I'm a **Brazilian** **Web Developer** focused on **Frontend**, I enjoy building clean and functional interfaces.
 Also a **Violinist 🎻**, **Cat lover 🐈** and **Linux user and contributor 🐧**.
