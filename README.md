@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Zaque <3
 
 I'm a **Brazilian** **Web Developer** focused on **Frontend**, I enjoy building clean and functional interfaces.
-Also a **Violinist 🎻**, **Cat lover 🐈** and **Linux user and contributor 🐧**.
+Also a Violinist, Cat lover and Linux user and contributor.
 
 
 ---
@@ -40,7 +40,7 @@ Also a **Violinist 🎻**, **Cat lover 🐈** and **Linux user and contributor �
 </a>
 </div>
 
-## 🧠 Interests
+## Interests
 
 - Frontend development
 - UI/UX
