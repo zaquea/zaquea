@@ -29,17 +29,17 @@ Also a Violinist, Cat lover and Linux user and contributor.
  
 
 <div> 
- <a href="https://discord.gg/dStZfbQ8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/dStZfbQ8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/zaque-a-52262341b" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
 </a>
-  <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white">
 </a>
   <a href="https://x.com/zaquedev" target="_blank">
-  <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white">
+  <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white">
 </a>
   <a href="https://instagram.com/zaquedev" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
 </a>
 </div>
 
