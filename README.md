@@ -38,7 +38,7 @@ Also a Violinist, Cat lover and Linux user and contributor.
   </a>
 
   <a href="https://x.com/zaquedev">
-    <img src="Badges/x.svg" height="62" alt="X">
+    <img src="Badges/twitter.svg" height="62" alt="X">
   </a>
 
   <a href="https://instagram.com/zaquedev">
