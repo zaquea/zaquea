@@ -28,20 +28,27 @@ Also a Violinist, Cat lover and Linux user and contributor.
   ##
  
 
-<div> 
- <a href="https://discord.gg/dStZfbQ8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/zaque-a-52262341b" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
-</a>
-  <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white">
-</a>
-  <a href="https://x.com/zaquedev" target="_blank">
-  <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white">
-</a>
-  <a href="https://instagram.com/zaquedev" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
-</a>
-</div>
+<div align="center">
+  <a href="mailto:alencarisaque@proton.me">
+    <img src="Badges/email.svg" height="62" alt="Contact">
+  </a>
+
+  <a href="https://gitlab.com/zaquea">
+    <img src="Badges/gitlab.svg" height="62" alt="GitLab">
+  </a>
+
+  <a href="https://x.com/zaquedev">
+    <img src="Badges/x.svg" height="62" alt="X">
+  </a>
+
+  <a href="https://instagram.com/zaquedev">
+    <img src="Badges/instagram.svg" height="62" alt="Instagram">
+  </a>
+
+  <a href="https://www.linkedin.com/in/zaque-a-52262341b/">
+    <img src="Badges/linkedin.svg" height="62" alt="LinkedIn">
+  </a>
+  </div>
 
 ## Interests
 
