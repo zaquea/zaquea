@@ -12,6 +12,7 @@ Also a Violinist, Cat lover and Linux user and contributor.
 
 ##
 
+# Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30">&nbsp;&nbsp;
