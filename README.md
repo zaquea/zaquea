@@ -23,8 +23,8 @@ Also a Violinist, Cat lover and Linux user and contributor.
 </p>
           
   
-  ##
  
+# Contacts
 
 <div align="center">
   <a href="mailto:alencarisaque@proton.me">
@@ -48,7 +48,7 @@ Also a Violinist, Cat lover and Linux user and contributor.
   </a>
   </div>
 
-## Interests
+# Interests
 
 - Frontend development
 - UI/UX
