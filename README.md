@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Zaque <3
 
-I'm a **Brazilian** **Web Developer** focused on **Frontend**, I enjoy building clean and functional interfaces.
+I'm a **Brazilian** **Web Developer** and **Linux System Administrator** focused on **Cloud Security** and **Frontend**, I enjoy building clean and functional interfaces, while maintaining robust, secure cloud infrastructure and hardened Linux environments under the hood.
 Also a Violinist, Cat lover and Linux user and contributor.
 
 
@@ -51,19 +51,16 @@ Also a Violinist, Cat lover and Linux user and contributor.
 
 # Interests
 
+- Linux
+- Cloud Security
 - Frontend development
 - UI/UX
-- Music (violin)
 - Open Source
-- Cats (mandatory)
+- Classical Music
+- Cats
 
 ---
 
 
 
 ![Contributions](https://gitblend.com/api/contributions/github?username=zaquea&theme=dark)
-
-
-
-
-:)
